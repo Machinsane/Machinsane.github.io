@@ -1,1 +1,1 @@
-Please check my <a href="https://machinsane.github.io" target="_blank">website</a>).
+Please check my <a href="https://machinsane.github.io" target="_blank">website</a>.

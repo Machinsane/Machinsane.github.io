@@ -1,1 +1,1 @@
-Please check my website [![deploy](https://machinsane.github.io)]
+Please check my website <a href="https://machinsane.github.io" target="_blank">2024</a>)

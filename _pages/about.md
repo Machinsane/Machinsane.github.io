@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. yuzhifei1030@hotmail.com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
